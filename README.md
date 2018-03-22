@@ -1,3 +1,2 @@
-# Deep-Learning
+# DeepLearning
 
-Deep Neural Networks
